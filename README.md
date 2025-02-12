@@ -13,10 +13,9 @@ Welcome to my GitHub! I'm a developer, always learning, and about creating cool 
 ---
 
 ## 🛠️ Technologies & Tools
-- **Languages**: ![JavaScript](https://img.shields.io/badge/JavaScript-FF5733?style=flat&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+- **Languages**: ![JavaScript](https://img.shields.io/badge/JavaScript-FF5733?style=flat&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 - **Frameworks**: ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-- **Tools**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
+- **Tools**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ---
 
 ## 📊 GitHub Stats
@@ -31,7 +30,7 @@ Welcome to my GitHub! I'm a developer, always learning, and about creating cool 
 
 ## 🔥 GitHub Activity
 
-[![My Activity Graph](https://activity-graph.herokuapp.com/graph?username=jam92444&theme=highcontrast)](https://github.com/jam92444)
+![My Activity Graph](https://activity-graph.herokuapp.com/graph?username=jam92444&theme=highcontrast)](https://github.com/jam92444)
 
 ---
 
