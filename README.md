@@ -22,9 +22,7 @@ Welcome to my GitHub! I'm a developer, always learning, and about creating cool 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jam92444&show_icons=true&count_private=true&hide=prs&theme=highcontrast)
 
-### 🏆 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jam92444layout=compact&theme=highcontrast)
 
 ---
 
