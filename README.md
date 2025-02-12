@@ -23,15 +23,7 @@ Welcome to my GitHub! I'm a developer, always learning, and about creating cool 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jam92444&show_icons=true&count_private=true&hide=prs&theme=highcontrast)
 
 
-
 ---
-
-## 🔥 GitHub Activity
-
-![My Activity Graph](https://activity-graph.herokuapp.com/graph?username=jam92444&theme=highcontrast)](https://github.com/jam92444)
-
----
-
 ## 📬 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/yusuf-jamal-106772293)
 - [HackerRank](https://www.hackerrank.com/profile/mdyusufwork)
