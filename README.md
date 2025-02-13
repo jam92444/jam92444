@@ -18,11 +18,6 @@ Welcome to my GitHub! I'm a developer, always learning, and about creating cool 
 - **Tools**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jam92444&show_icons=true&count_private=true&hide=prs&theme=highcontrast)
-
-
 ---
 ## 📬 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/yusuf-jamal-106772293)
