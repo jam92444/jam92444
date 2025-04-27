@@ -4,9 +4,9 @@ Welcome to my GitHub! I'm a developer, always learning, and about creating cool 
 
 ---
 ## 🚀 About Me
-- 🌱 I’m currently learning: Django
+- 🌱 I’m currently  working as an Intern: React developer
 - 👯 I’m looking to collaborate on: Frontend Development 
-- 💬 Ask me about: REACT JS, PYTHON, NODEJS, EXPRESS JS, MYSQL, MONGODB, FLASK AND DJANGO
+- 💬 Ask me about: REACT JS, PYTHON,SCSS, NODEJS, EXPRESS JS, MYSQL, MONGODB, FLASK AND DJANGO
 - 📫 How to reach me: [MAIL ME](mdyusufwork@gmail.com)
 
 ---
