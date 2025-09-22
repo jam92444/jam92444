@@ -6,7 +6,7 @@ Welcome to my GitHub! I’m a **full-stack developer** (React + Node.js) passion
 
 ## 🚀 About Me
 
-- 🧑‍💻 Currently interning as a **React Developer**
+- 🧑‍💻 **A developer woking to create a solutions**
 - 🛠️ Focused on **Frontend Development** and modern web tools
 - 🌱 Always exploring: **SaaS**, **System Design**, and **Cloud Platforms**
 - 💬 Ask me about:  
